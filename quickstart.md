@@ -1,4 +1,6 @@
-Unless you have a flight stick, play this game with an X-box controller!!!!!!!!!!
+Unless you have a flight stick, play this game with an X-box controller!!!
+
+Disclamer, this will blast you past the `First Mil` portion of the game, and will break that for you if thats something you want
 
 ## Basic start
 1. Play until you are comfortable, the starter area is nice
